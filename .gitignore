@@ -2,6 +2,6 @@
 config.h
 patches.h
 st
-/pkg
-/src
-/st
+pkg/*
+src/*
+st/*
