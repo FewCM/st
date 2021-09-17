@@ -1,6 +1,6 @@
 # Maintainer: SW
 pkgname=st-fewcm
-pkgver=0.8.4.r11.4dfa269
+pkgver=0.8.4.r13.d805615
 pkgrel=1
 pkgdesc="A heavily-patched and customized build of st"
 arch=(x86_64)
