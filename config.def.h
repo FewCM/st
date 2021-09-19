@@ -25,9 +25,9 @@ static char *font = "JetBrains Mono NL,JetBrains Mono NL Medium:style=Regular:pi
 Iosevka,Iosevka Nerd Font:style=Regular,Book:pixelsize=17:antialias=true:autohint=true
 
 */
-static char *font = "JetBrains Mono:style=Regular:size=13:antialias=true:autohint=true";
+static char *font = "Iosevka Term:style=Regular:size=12:antialias=true:autohint=true";
 /* Spare fonts */
-static char *font2[] = { "JetBrainsMono Nerd Font:style=Regular:size=13:antialias=true:autohint=true",
+static char *font2[] = { 
 						 "Material Design Icons Desktop:style=Regular:size=14:antialias=true:autohint=true",
 						"Noto Color Emoji:style=Regular:size=14:antialias=true:autohint=true",
 						"WenQuanYi Zen Hei Mono,文泉驛等寬正黑,文泉驿等宽正黑:style=Regular:pixelsize=14:antialias=true;autohint=true",
